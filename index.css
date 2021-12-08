@@ -1,0 +1,36 @@
+input, select, textarea {
+    display: block;
+    margin: 4px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: yellow;
+    background-color: crimson;
+    width: 16vw;
+    padding: 10px;
+    margin-left: 530px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    margin: 0.5em 4px;
+}
+
+.inline {
+    display: inline;
+}
+
+body {
+    background-color: rgba(0, 0, 255, 0.432);
+}
+
+.form-container {
+    padding: 5px;
+    border-radius: 5px;
+    background-color:darkblue;
+    width: 18vw;
+    margin-left: 520px;
+    color:cyan;
+}
